@@ -1,6 +1,9 @@
 # YT2Wallpaper User Documentation
 Welcome to YT2Wallpaper! This application allows you to set YouTube or YouTube Music videos as live wallpapers on your Windows desktop.
-<iframe src="https://www.veed.io/embed/c1aa7a1b-fc1e-418b-876d-fe693a206d79" width="744" height="504" frameborder="0" title="yt_2_wallpaper_demo" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+https://github.com/sameert89/yt_2_wallpaper/assets/91889637/57bf5867-2235-4f55-bbbe-3581b58d79a4
+
 
 ## Getting Started
 Before diving into the world of dynamic wallpapers, make sure you have your desired YouTube or YouTube Music video open in a separate browser window. This can be any browser of your choice, as YT2Wallpaper is compatible with all major browsers.
