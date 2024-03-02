@@ -108,6 +108,7 @@
   <ItemGroup>
     <None Include="imgui.ini" />
     <None Include="deps\imgui\examples\libs\emscripten\shell_minimal.html" />
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <Library Include="deps\imgui\examples\libs\glfw\lib-vc2010-32\glfw3.lib" />
